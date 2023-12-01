@@ -1,5 +1,5 @@
 --[[ ===================================================== ]]--
---[[       QBCore Job Garage Menu Script by MaDHouSe       ]]--
+--[[          QBCore Job Garage Menu Script by RL          ]]--
 --[[ ===================================================== ]]--
 
 local QBCore = exports['qb-core']:GetCoreObject()
