@@ -1,4 +1,4 @@
-local user = "MaDHouSe79"
+local user = "rl-subscription"
 local script = "RL-jobgaragemenu"
 
 local resourceName = mil
